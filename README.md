@@ -22,12 +22,12 @@ Our approach for satisfying this challenge was to:
 ## Team Members
 
 Our team is comprised of:
-- Jason - Data Wrangler/Project Manager
-- Paras - Data Wrangler
-- Ragavendra - Back End Swifter
+- [Jason](http://www.jasonkwock.com) - Data Wrangler/Project Manager
+- [Paras](http://www.parasdoshi.com/) - Data Wrangler
+- Raghavendra - Back End Swifter
 - [@miracode](http://github.com/miracode) - Back End Swifter
 - [@curiousurick](http://github.com/curiousurick) - Front End Swifter
-- Subha - Front End Swifter
+- [@SubhaVasudevan](http://github.com/SubhaVasudevan) - Front End Swifter
 
 
 ## Technologies, APIs, and Datasets Utilized
