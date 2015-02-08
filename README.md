@@ -4,8 +4,6 @@ This application was developed February 6-8, 2015 for the [Hack Housing: Empower
 
 ![Isn't our app beautiful?!](screenshot.jpg)
 
-Our app is live at http://example.com/awesome-app-that-doesnt-exist.
-
 ## Challenge and Approach
 
 It’s incredibly difficult navigating the web of government housing assistance programs. 
